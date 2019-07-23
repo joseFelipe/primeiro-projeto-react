@@ -9,18 +9,18 @@ export default createGlobalStyle`
   }
 
   html, body, #root {
-    min-height: 100%
+    min-height: 100%;
   }
 
   body {
-    background: #7159c1;
+    background: #35C9AE;
     -webkit-font-smoothing: antialiased !important;
   }
 
-  body, input button {
+  body, input, button {
     color: #222;
     font-size: 14px;
-    font-family: Arial, Helvetica, sans-serif
+    font-family: Arial, Helvetica, sans-serif;
   }
 
   button {
